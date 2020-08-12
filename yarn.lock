@@ -882,6 +882,21 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@braid/vue-formulate-i18n@^1.11.0":
+  version "1.11.0"
+  resolved "https://registry.npm.taobao.org/@braid/vue-formulate-i18n/download/@braid/vue-formulate-i18n-1.11.0.tgz#635940afc3cc919c439a0e6bbdc1cd39b4e35058"
+  integrity sha1-Y1lAr8PMkZxDmg5rvcHNObTjUFg=
+
+"@braid/vue-formulate@^2.4.3":
+  version "2.4.3"
+  resolved "https://registry.npm.taobao.org/@braid/vue-formulate/download/@braid/vue-formulate-2.4.3.tgz#39bfe5edc5b5e3b4fd4b522336deca210918b78d"
+  integrity sha1-Ob/l7cW147T9S1IjNt7KIQkYt40=
+  dependencies:
+    "@braid/vue-formulate-i18n" "^1.11.0"
+    is-plain-object "^3.0.0"
+    is-url "^1.2.4"
+    nanoid "^2.1.11"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/@hapi/address/download/@hapi/address-2.1.4.tgz?cache=0&sync_timestamp=1593994187751&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Faddress%2Fdownload%2F%40hapi%2Faddress-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -2009,6 +2024,11 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/boolbase/download/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
+
+bootstrap@^4.5.2:
+  version "4.5.2"
+  resolved "https://registry.npm.taobao.org/bootstrap/download/bootstrap-4.5.2.tgz#a85c4eda59155f0d71186b6e6ad9b875813779ab"
+  integrity sha1-qFxO2lkVXw1xGGtuatm4dYE3eas=
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -4987,6 +5007,11 @@ is-plain-object@^2.0.3, is-plain-object@^2.0.4:
   dependencies:
     isobject "^3.0.1"
 
+is-plain-object@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.npm.taobao.org/is-plain-object/download/is-plain-object-3.0.1.tgz#662d92d24c0aa4302407b0d45d21f2251c85f85b"
+  integrity sha1-Zi2S0kwKpDAkB7DUXSHyJRyF+Fs=
+
 is-regex@^1.0.4, is-regex@^1.1.0:
   version "1.1.1"
   resolved "https://registry.npm.taobao.org/is-regex/download/is-regex-1.1.1.tgz?cache=0&sync_timestamp=1596555758915&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-regex%2Fdownload%2Fis-regex-1.1.1.tgz#c6f98aacc546f6cec5468a07b7b153ab564a57b9"
@@ -5027,6 +5052,11 @@ is-typedarray@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/is-typedarray/download/is-typedarray-1.0.0.tgz#e479c80858df0c1b11ddda6940f96011fcda4a9a"
   integrity sha1-5HnICFjfDBsR3dppQPlgEfzaSpo=
+
+is-url@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.npm.taobao.org/is-url/download/is-url-1.2.4.tgz#04a4df46d28c4cff3d73d01ff06abeb318a1aa52"
+  integrity sha1-BKTfRtKMTP89c9Af8Gq+sxihqlI=
 
 is-utf8@^0.2.0:
   version "0.2.1"
@@ -5733,6 +5763,11 @@ nan@^2.12.1, nan@^2.13.2:
   version "2.14.1"
   resolved "https://registry.npm.taobao.org/nan/download/nan-2.14.1.tgz#d7be34dfa3105b91494c3147089315eff8874b01"
   integrity sha1-174036MQW5FJTDFHCJMV7/iHSwE=
+
+nanoid@^2.1.11:
+  version "2.1.11"
+  resolved "https://registry.npm.taobao.org/nanoid/download/nanoid-2.1.11.tgz#ec24b8a758d591561531b4176a01e3ab4f0f0280"
+  integrity sha1-7CS4p1jVkVYVMbQXagHjq08PAoA=
 
 nanomatch@^1.2.9:
   version "1.2.13"
