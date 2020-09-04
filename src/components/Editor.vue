@@ -48,18 +48,17 @@
             <h1>WhatsApp Direct</h1>
             <section>
               <h2>
-                Send WhatsApp Message directly, without saving any contact!
+                You just wanna send WhatsApp Message, but don't wanna save any
+                new contact.
               </h2>
               <p>
                 Tired of saving one time contact? Because you just need to
                 contact it once?<br />
-                By through this page you will be able to WhatsApp them without
-                hassle to save their contact. Just
+                Simply
                 <a href="" @click.prevent="onClickInsertPhoneNumber"
                   >insert the phone number</a
                 >
-                and send your message directly,
-                <i>without saving contact</i>.
+                and WhatApp them.
               </p>
             </section>
           </div>
